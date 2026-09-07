@@ -5,8 +5,6 @@ SILVER_PATH = "/Volumes/workspace/default/workspace/silver/"
 GOLD_PATH = "/Volumes/workspace/default/workspace/gold/"
 
 GCP_PROJECT = "gifted-decker-503209-k7"
-BQ_DATASET = "ecommerce"
-TEMP_GCS_BUCKET = "ecommerce-databricks-temp"
 
 GCP_SECRET_SCOPE = "gcp-secrets"
 GCP_SECRET_KEY = "gcp-sa-key"
